@@ -1,14 +1,14 @@
-title:              Clean Blog
-email:              your-email@example.com
+title:              Qiong's Blog
+email:              qiongru.liang@gmail.com
 description:        The bigger the why, the easier the how
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+author:             Dilys Qiong
+baseurl:            "/"
+url:                "https://dilysqiong.github.io/"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   DilysQiong
+github_username:    DilysQiong
+facebook_username:  DilysQiong
 instagram_username:  
 linkedin_username:
 
